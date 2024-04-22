@@ -62,9 +62,10 @@
 }
 
 .header__logo:hover,
-.header__options:hover {
+.header__options:hover,
+.header__optionBasket:hover {
   border: 1px solid white;
-  border-radius: 10px;
+  border-radius: 5px;
   padding: 5px;
 }
 
@@ -114,5 +115,5 @@
   padding: 6px;
   padding-bottom: 10px;
   border: 1px solid white;
-  border-radius: 10px;
+  border-radius: 5px;
 }
